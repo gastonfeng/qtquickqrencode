@@ -1,0 +1,8 @@
+.obj/
+build-widgets-Desktop_Qt_5_7_0_MinGW_32bit-Debug/
+.moc/
+build-widgets-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0_4b686b-Debug/
+lib/
+plugins/
+*.user
+include/
