@@ -6,3 +6,5 @@ lib/
 plugins/
 *.user
 include/
+/build-qml2-Desktop_Qt_5_8_0_MinGW_32bit-Debug/
+/build-qml2-Desktop_Qt_5_8_0_MinGW_32bit-Release/
